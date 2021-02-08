@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+
+}
+
+.container {
+    width: 1200px;
+    background: yellowgreen;
+    margin: 0 auto;
+  }
+  /*---header-area---*/
+  .logo {
+    float: left;
+    width: 30%;
+    padding-left: 58px;
+  }
+  .menu-bar {
+    overflow: hidden;
+  }
+  .menu-bar ul {
+    list-style: none;
+  }
+  .menu-bar ul li {
+    display: inline-block;
+    padding: 12px;
+  }
+  .menu-bar ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: ;
+  }
